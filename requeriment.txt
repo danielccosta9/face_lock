@@ -1,0 +1,5 @@
+pip install opencv-python
+pip install face_recognition
+pip install numpy
+pip install serial
+pip install pyserial
